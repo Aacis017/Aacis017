@@ -130,5 +130,5 @@
     style="border-radius: 15px; filter: drop-shadow(0 0 15px rgba(88, 166, 255, 0.7));"
   />
   <br />
-  <strong class="footer-love">⭐ From <a href="https://github.com/AashishDhakal" style="color: #f9a825; text-shadow: none;">AashishDhakal</a> with ❤️</strong>
+  <strong class="footer-love">⭐ From <a href="https://github.com/Aacis017" style="color: #f9a825; text-shadow: none;">AashishDhakal</a> with ❤️</strong>
 </div>
