@@ -63,34 +63,44 @@
     <tr>
       <td style="width: 50%; padding: 15px; vertical-align: top;">
         <h3><span class="gear-icon">⚙️</span> Programming Languages</h3>
-        <div class="skill-icon-group">
-          <img src="https://skillicons.dev/icons?i=cs,cpp,python" width="75" height="75" alt="Languages"/>
+        <div class="skill-icon-group" style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=cs" width="90" height="90" alt="C#" />
+          <img src="https://skillicons.dev/icons?i=cpp" width="90" height="90" alt="C++" />
+          <img src="https://skillicons.dev/icons?i=python" width="90" height="90" alt="Python" />
         </div>
         <br />
         <h3><span class="gear-icon">🛠️</span> Core Tools & Frameworks</h3>
-        <div class="skill-icon-group">
-          <img src="https://skillicons.dev/icons?i=qt,raspberrypi,arduino" width="75" height="75" alt="Tools & Frameworks"/>
+        <div class="skill-icon-group" style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=dotnet" width="90" height="90" alt=".NET" />
+          <img src="https://skillicons.dev/icons?i=qt" width="90" height="90" alt="Qt" />
+          <img src="https://skillicons.dev/icons?i=cmake" width="90" height="90" alt="CMake" />
         </div>
         <br />
         <h3><span class="gear-icon">🚀</span> Drone & Embedded Systems</h3>
-        <p>QGroundControl | Mission Planner | Raspberry Pi | Arduino | ArduPilot</p>
+        <p>QGroundControl | Mission Planner | Raspberry Pi | ArduPilot</p>
       </td>
       <td style="width: 50%; padding: 15px; vertical-align: top;">
-        <h3><span class="gear-icon">🖥️</span> Development Environments</h3>
-        <div class="skill-icon-group">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,qt,github" width="75" height="75" alt="Dev Environments"/>
+        <h3><span class="gear-icon">🖥️</span> Development Environments & Hardware</h3>
+        <div class="skill-icon-group" style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=vscode" width="90" height="90" alt="VS Code" />
+          <img src="https://skillicons.dev/icons?i=visualstudio" width="90" height="90" alt="Visual Studio" />
+          <img src="https://skillicons.dev/icons?i=github" width="90" height="90" alt="GitHub" />
+          <img src="https://skillicons.dev/icons?i=arduino" width="90" height="90" alt="Arduino" />
         </div>
-        <p>Visual Studio | Visual Studio Code | Qt Creator</p>
+        <p>Visual Studio | VS Code | GitHub | Arduino</p>
         <br />
         <h3><span class="gear-icon">🌐</span> Version Control & OS</h3>
-        <div class="skill-icon-group">
-          <img src="https://skillicons.dev/icons?i=git,linux,cmake" width="75" height="75" alt="Other Tools"/>
+        <div class="skill-icon-group" style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=git" width="90" height="90" alt="Git" />
+          <img src="https://skillicons.dev/icons?i=linux" width="90" height="90" alt="Linux" />
+          <img src="https://skillicons.dev/icons?i=windows" width="90" height="90" alt="Windows" />
         </div>
-        <p>Git | GitHub | CMake | Linux</p>
+        <p>Git | Linux | Windows</p>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
