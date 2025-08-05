@@ -26,7 +26,7 @@
       <td>
         <h3>👋 Hi, I'm Aashish Dhakal!</h3>
         <p>🚀 I'm a **Software Engineer** specializing in **Embedded Systems & Robotics**, currently working in **drone manufacturing**. I thrive on designing robust software architectures and intuitive interfaces for complex aerial systems.</p>
-        <p>🛩️ I have hands-on experience with drone ground control software like **QGroundControl (QGC)** and **Mission Planner**, and hardware platforms such as **Raspberry Pi** and **Arduino**, integrating them with flight controllers like **ArduPilot**.</p>
+        <p>🛩️ I have hands-on experience with drone ground control software like **QGroundControl (QGC)** and **Mission Planner**, and hardware platforms such as **Raspberry Pi** and **Arduino**</p>
         <p>💻 Prior to my current role, I honed my skills as a **.NET Developer**, building scalable applications.</p>
         <p>🌍 Originally from Nepal 🇳🇵, I'm currently based in Japan 🇯🇵.</p>
         <p class="email-link"><span class="pulsing-dot"></span>Reach me at <a href="mailto:dhakalaashish17@gmail.com">dhakalaashish17@gmail.com</a></p>
